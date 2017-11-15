@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="18px" height="22px" viewBox="0 0 18 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>Fill 370 + Fill 370 copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M4.50196885,0.0157113268 C4.35496885,-0.0189809809 4.20096885,0.00386517297 4.07596885,0.0834036345 L0.190968854,2.58548056 C0.0209688542,2.6946344 -0.0350311458,2.87740363 0.0209688542,3.04155748 L0.0209688542,18.6640959 L13.6229689,21.9987882 L13.6229689,6.1469421 L1.06396885,3.06609594 L4.46896885,0.872865173 L17.0259689,3.95878825 L17.0259689,18.6505575 C17.0259689,18.8815575 17.2439689,19.0685575 17.5089689,19.0685575 C17.7809689,19.0685575 17.9979689,18.8815575 17.9979689,18.6505575 L17.9979689,3.64486517 C17.9979689,3.45786517 17.8539689,3.29455748 17.6459689,3.2429421 L4.50196885,0.0157113268 Z" id="path-1"></path>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="18" height="22" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <path d="M2.93898057,1.54244473 C2.79198057,1.50775242 2.63798057,1.53059857 2.51298057,1.61013703 L2.02832031,2.20640055 L15.0259687,5.53194066 L15.0259689,20.4838908 C15.0259689,20.7148908 15.2439689,20.9018908 15.5089689,20.9018908 C15.7809689,20.9018908 15.9979689,20.7148908 15.9979689,20.4838908 L15.9979687,5.21801758 C15.9979687,5.03101758 15.8539687,4.86770989 15.6459687,4.8160945 L2.93898057,1.54244473 Z" id="path-3"></path>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="14" height="19.25" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Chris-Jimenez" transform="translate(-38.000000, -416.000000)" stroke-width="2" stroke="#222222">
+            <g id="Group" transform="translate(38.000000, 416.000000)">
+                <g id="Fill-370-+-Fill-370-copy">
+                    <use id="Fill-370" mask="url(#mask-2)" xlink:href="#path-1"></use>
+                    <use id="Fill-370-copy" mask="url(#mask-4)" xlink:href="#path-3"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

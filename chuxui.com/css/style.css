@@ -190,7 +190,7 @@ a {
 
 @media screen and (max-width:768px) {
 	.logo {
-		width: 100px;
+		width: 80px;
 		height: 25px;
 	}
 	#header {

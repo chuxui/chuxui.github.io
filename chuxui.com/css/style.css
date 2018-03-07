@@ -190,7 +190,7 @@ a {
 
 @media screen and (max-width:768px) {
 	.logo {
-		width: 80px;
+		width: 84px;
 		height: 25px;
 	}
 	#header {
@@ -548,7 +548,7 @@ margin-right: 12px
 .lang{
 	float: right;
 	position: relative;
-    top: -4px;
+    	top: 10px;
 }
 
 .social a {
